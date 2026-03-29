@@ -1,31 +1,50 @@
 🏠 Housing Sales Analysis Dashboard (Power BI)
 
-📌 Project Overview
+📌 Project Overview -
+
 This project focuses on analyzing housing market data to solve key business challenges in real estate sales and pricing. The dashboard provides a comprehensive view of sales performance, pricing behavior, and regional trends using Power BI.
 The objective is to convert raw housing data into actionable insights that support strategic decision-making for stakeholders such as real estate companies, investors, and analysts.
 
-🎯 Business Problem
+🎯 Business Problem -
+
 The real estate market generates large volumes of data, but decision-makers often struggle with:
+
 •	Limited visibility into regional sales performance.
+
 •	Difficulty understanding price variations across property types.
+
 •	Lack of clarity on factors influencing property prices.
+
 •	Inefficient tracking of sales trends over time.
 
-✅ Solution Approach
+✅ Solution Approach -
+
 This project solves the above problems by:
+
 •	Building an interactive Power BI dashboard
+
 •	Creating KPI-driven insights for business users
+
 •	Performing data analysis to identify trends and drivers
+
 •	Enabling dynamic filtering by region, property type, and time
 
-📊 Key KPIs
+📊 Key KPIs -
+
 •	🏘️ Units Sold (Latest Period): 77 
+
 •	💰 12-Month Sales: 13 Billion 
+
 •	📈 Total Sales by Region: 
-o	Zealand: 95bn 
-o	Jutland: 81bn 
-o	Fyn & Islands: 15bn 
-•	📉 Median Price Change by Region 
+
+o	Zealand: 95bn
+
+o	Jutland: 81bn
+
+o	Fyn & Islands: 15bn
+
+•	📉 Median Price Change by Region
+
 •	📊 Average Price per SQM by Region 
 
 📈 Dashboard Features
