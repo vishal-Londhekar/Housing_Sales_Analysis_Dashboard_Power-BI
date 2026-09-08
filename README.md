@@ -44,7 +44,7 @@ Power BI Desktop, Power Query, DAX, native date hierarchy, slicers, charts, tabl
 
 **Decision support:** Helps users explore price trends, regional performance, house types, sales characteristics, and potential market drivers in a historical dataset.
 
-## $1
+## Limitations
 
 - The report uses a historical snapshot and is not a live market feed.
 - The Key Influencers visual is a built-in Power BI analytical visual, not a separately trained machine-learning service.
