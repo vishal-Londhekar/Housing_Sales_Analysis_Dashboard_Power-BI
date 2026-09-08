@@ -1,5 +1,7 @@
 # Danish Housing Market Sales Analysis — Power BI
 
+> **Data Analyst & Business Intelligence Analyst portfolio project**
+
 A Power BI dashboard for analysing Danish housing transactions, price trends, regions, house types, and sales characteristics over time.
 
 ## Overview
@@ -32,7 +34,17 @@ Power BI Desktop, Power Query, DAX, native date hierarchy, slicers, charts, tabl
 3. Use the report pages and cascading filters to explore the market.
 4. Refer to **Housing+Data+Column+Definitions.xlsx** for field meanings.
 
-## Limitations
+## Analyst value
+
+> **Portfolio focus:** Real Estate Business Intelligence · Market Trends · Interactive Reporting
+
+**Stakeholder lens:** Property analysts, market researchers, sales teams, and real-estate decision-makers.
+
+**Skills demonstrated:** Power Query preparation, DAX, time-series analysis, regional segmentation, cascading filters, KPI reporting, and built-in analytical visuals.
+
+**Decision support:** Helps users explore price trends, regional performance, house types, sales characteristics, and potential market drivers in a historical dataset.
+
+## $1
 
 - The report uses a historical snapshot and is not a live market feed.
 - The Key Influencers visual is a built-in Power BI analytical visual, not a separately trained machine-learning service.
