@@ -34,6 +34,21 @@ Power BI Desktop, Power Query, DAX, native date hierarchy, slicers, charts, tabl
 3. Use the report pages and cascading filters to explore the market.
 4. Refer to **Housing+Data+Column+Definitions.xlsx** for field meanings.
 
+
+## Business problem and decision
+
+### Business problem
+Housing analysts need to compare long-term price movement, regional performance, house types, and sales characteristics across a large transaction dataset. Without interactive filtering and consistent measures, it is difficult to distinguish broad market movement from regional or property-type differences.
+
+### Analyst question
+How do prices and transaction characteristics vary across time, regions, cities, sales types, and house types, and which factors deserve further market investigation?
+
+### Decision supported
+Market researchers and real-estate stakeholders can use the report to monitor historical trends, prioritise regional analysis, and frame questions about supply, demand, and property mix.
+
+### Potential success measure
+Success should be judged by transparent measure definitions, reliable filtering, reproducible refresh steps, and the speed with which a stakeholder can answer a defined market question.
+
 ## Analyst value
 
 > **Portfolio focus:** Real Estate Business Intelligence · Market Trends · Interactive Reporting
